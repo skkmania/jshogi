@@ -1,0 +1,10 @@
+.swp
+*.swp
+*/*/.swp
+../log/*.*
+log/*.*
+lib/log/*.*
+img/*.*
+public/lib/*.*
+public/lib
+test/unit/sample/*.*
